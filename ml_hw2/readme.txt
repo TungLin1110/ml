@@ -1,0 +1,1 @@
+直接在有CroppedYale目錄下執行 python .py檔即可
